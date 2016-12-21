@@ -32,3 +32,72 @@
  */
 
 //writ your code here .....
+
+// a.
+
+
+function players(player){
+	var player ={};
+	 player.age = age,
+	 player.position = position,
+	 player.level = level, 
+	 player.availability = availability,
+	 player.player1 = player1,
+	 player.addInfo = addInfo,
+	 player.increaseLevel = increaseLevel,
+	 player.players = players,
+	 player.decreaseLevel= decreaseLevel,
+	 player.sortPalyerBy = sortPalyerBy
+	return player;
+}
+
+var player1 = function(){
+	this.player = player1;
+	return player1;
+}
+
+// b.
+
+var addInfo = function(){
+	this.player1 = this.age + this.position + this.level + this.availability;
+	return this.player1;
+}
+ //c.
+var increaseLevel = function() = {
+	var count = 0;
+ for (var key in obj){
+ 	return this.count++
+ } 
+}
+
+//d.
+var isAvailable = function(n) {
+	if (this.availability > -1){
+	return true;
+    }
+	else{
+		return false;
+	}
+}
+
+//e.
+
+var arrayOfPlayers = [];
+var players = function(){
+	this.player = this.player1;
+	return arrayOfPlayers.push(this.player1);
+} 
+ //f.
+var decreaseLevel = function(){
+	var count = 0
+   for (var key in obj){
+   		if (this.age > 30) {
+ 	return this.count--;
+ 		}
+ 	} 
+}
+
+//f.
+var sortPalyerBy = function(){
+	
+}

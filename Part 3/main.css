@@ -1,0 +1,16 @@
+ /*a. Change the background color for the whole page.
+    b. Change the font family for the header of the page  
+    c. Enlarge the input text (both: width & height)*/
+
+    body {
+    	background-color: green;
+	}
+
+	h1 {
+    	font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+
+	#addBtn {
+    height:40px;
+    width: :80em;
+	}
